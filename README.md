@@ -40,8 +40,12 @@
 
 ### 📊 Thống kê hoạt động GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=diepvien007-nct&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diepvien007-nct&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/diepvien007-nct">
+    <img src="https://github-readme-stats.vercel.app/api?username=diepvien007-nct&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/diepvien007-nct">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diepvien007-nct&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
 </p>
 
 ---
