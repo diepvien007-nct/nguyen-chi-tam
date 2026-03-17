@@ -34,7 +34,7 @@
 * [cite_start]**Vị trí:** Lập trình viên Back-end [cite: 44]
 * [cite_start]**Công việc:** Xây dựng hệ thống quản trị (Admin), quản lý sản phẩm, đơn hàng và người dùng[cite: 46].
 * [cite_start]**Công nghệ:** PHP, MySQL, Bootstrap[cite: 47, 48].
-* [cite_start]**Demo:** [ktv-shop.kesug.com](http://ktv-shop.kesug.com) [cite: 50]
+* [cite_start]**Demo:** [ktv-shop.kesug.com](https://watchshop.kesug.com/) [cite: 50]
 
 ---
 
