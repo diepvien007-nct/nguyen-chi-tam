@@ -52,7 +52,7 @@
 
 ### 📫 Kết nối với tôi
 * [cite_start]**Zalo:** 0931248796 [cite: 8]
-* [cite_start]**Email:** cn25236@gmail.com [cite: 6]
+* [cite_start]**Email:** nct287206@gmail.com [cite: 6]
 
 ---
 [cite_start]*“Sẵn sàng áp dụng kiến thức để phát triển những trang web chất lượng.”* [cite: 13]
